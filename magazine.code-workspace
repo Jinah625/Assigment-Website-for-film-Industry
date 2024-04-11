@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../magazine"
+		},
+		{
+			"path": "../Assigment/Assigment 02"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "magazine"
+	}
+}
